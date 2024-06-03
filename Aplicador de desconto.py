@@ -25,7 +25,3 @@ else:
 
 # Valor sem desconto
 print(f"Valor sem desconto: R${valor_sem_desconto:.2f}")
-
-
-
-
